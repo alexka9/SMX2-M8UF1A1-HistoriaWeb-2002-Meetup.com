@@ -9,5 +9,5 @@ Es un plataforma que los creadores fueron Scott Heiferman, Matt Meeker y Peter K
 
 ![meetup_logo](https://github.com/alexka9/SMX2-M8UF1A1-HistoriaWeb-2002-Meetup.com/blob/main/Meetup_Logo.png "Imagen meetup")
 
-op
+
 
