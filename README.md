@@ -7,7 +7,7 @@
 
 Es un plataforma que los creadores fueron Scott Heiferman, Matt Meeker y Peter Kamali. Su funcion es que pueden reunir personas atraves de esta aplicacion para poder hablar y debatir de diferentes temas que tengan los mismos intereses de las personas implicadas.
 
-¡[meetup.com] https://github.com/alexka9/SMX2-M8UF1A1-HistoriaWeb-2002-Meetup.com/edit/main/meetup.en_.png"
+¡[meetup.com](https://github.com/alexka9/SMX2-M8UF1A1-HistoriaWeb-2002-Meetup.com/edit/main/meetup.en_.png "Imagen meetup")
 
 
 
