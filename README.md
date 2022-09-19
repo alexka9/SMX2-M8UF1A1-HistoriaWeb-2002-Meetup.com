@@ -5,9 +5,9 @@
 
 ## Definición:
 
-Meetup es un plataforma que los creadores fueron Scott Heiferman, Matt Meeker y Peter Kamali. Su funcion es que pueden reunir personas atraves de esta aplicacion para poder hablar y debatir de diferentes temas que tengan los mismos intereses de las personas implicadas.
+Es un plataforma que los creadores fueron Scott Heiferman, Matt Meeker y Peter Kamali. Su funcion es que pueden reunir personas atraves de esta aplicacion para poder hablar y debatir de diferentes temas que tengan los mismos intereses de las personas implicadas.
 
-
+¡[meetup.com]
 
 
 
