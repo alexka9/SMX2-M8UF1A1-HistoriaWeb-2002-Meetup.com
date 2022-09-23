@@ -16,7 +16,7 @@ Es un plataforma que los creadores fueron Scott Heiferman, Matt Meeker y Peter K
 
 ## Definición:
 
-Esta funcio que crearon  Michael Breidenbruecker 
+Esta funcion que crearon  ## Michael Breidenbrueckerb ##, Felix Miller, Martin Stiksel y Thomas Willomitzer que es un sistema de radio por internet y tambien un sistema que recomienda musica atraves de tus gustos musicales que se vasa atraves de los usuarios que esten registrados, que algunas funciones pueden ser de pago pero algunos paises tienen los metodos gratuitos
 
 
 
