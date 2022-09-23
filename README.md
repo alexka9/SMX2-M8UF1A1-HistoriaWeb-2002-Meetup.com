@@ -20,3 +20,12 @@ Esta funcion que crearon Michael Breidenbrueckerb, Felix Miller, Martin Stiksel 
 
 ![last.fm](https://github.com/alexka9/SMX2-M8UF1A1-HistoriaWeb-2002-Meetup.com/blob/main/lastfm_logo_facebook.15d8133be114.png "Imagen last.fm")
 
+*Doctype Switching and the Box Model Hack APR*
+
+*Fecha de creación*: 4 de ABRIL 2002
+
+## Definición
+
+
+
+
